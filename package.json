@@ -11,15 +11,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^14.2.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "lucide-react": "^0.294.0",
+    "@radix-ui/react-slot": "^1.0.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
+    "lucide-react": "^0.294.0",
+    "next": "^14.2.32",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "tailwind-merge": "^2.0.0",
-    "tailwindcss-animate": "^1.0.7",
-    "@radix-ui/react-slot": "^1.0.2"
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
@@ -35,5 +35,12 @@
   "engines": {
     "node": ">=18.0.0"
   },
-  "keywords": ["typing", "game", "education", "nextjs", "typescript", "responsive"]
+  "keywords": [
+    "typing",
+    "game",
+    "education",
+    "nextjs",
+    "typescript",
+    "responsive"
+  ]
 }
